@@ -1,0 +1,13 @@
+Pillow
+psycopg2-binary
+
+Django
+django-environ
+django-debug-toolbar
+django-allauth
+django-extensions
+django-imagekit
+django-taggit
+djangorestframework
+
+environ==1.0
